@@ -7,7 +7,7 @@ The notebooks were created as part of my Master's Thesis titled ["Visualizing Mo
 The thesis was written within the joint [Master Programme on Cartography](https://cartographymaster.eu/) of TU Munich, TU Vienna, TU Dresden and Uni Twente and in coorporation with [Fraunhofer IAIS](https://www.iais.fraunhofer.de/).
 For a quick impression, see the [Poster](https://cartographymaster.eu/wp-content/theses/2020_Klasen_Poster.pdf).
 
-The notebooks are conceptualized for a specific analytic scenario in four stages. Each stage features a *spatial* and a *temporal* overview of the data. To get an overview over the concept and the different visualizations, check out slides 20 through 32 and 36 of the [thesis presentation](https://cartographymaster.eu/wp-content/theses/2020_Klasen_Presentation.pdf).
+The notebooks are conceptualized for a specific analytic scenario in four stages. Each stage features a *spatial* and a *temporal* overview of the data. To get an overview over the concept and the different visualizations, check out slides [20 through 32 and 36 of the thesis presentation](https://cartographymaster.eu/wp-content/theses/2020_Klasen_Presentation.pdf#page=21).
 
 ## Data and Functionality
 To fully explore the notebooks, add a `/data` directory containing all datasets which can that can be downloaded from [mCLOUD](https://mcloud.de/web/guest/suche/-/results/detail/9A101FEC-3502-495A-9D93-BD8329A9D8AC).
@@ -21,6 +21,8 @@ Dataset | Notebooks, it is used in
 [anomCycledf.csv](https://www.mcloud.de/downloads/ingrid-group_ige-iplug-mcloud/9A101FEC-3502-495A-9D93-BD8329A9D8AC/anomCycledf.csv) | stage 2 - temporal overview
 [cycleAndFlowODdf.csv](https://www.mcloud.de/downloads/ingrid-group_ige-iplug-mcloud/9A101FEC-3502-495A-9D93-BD8329A9D8AC/cycleAndFlowODdf.csv) | stage 3
 [anomODdf.csv](https://www.mcloud.de/downloads/ingrid-group_ige-iplug-mcloud/9A101FEC-3502-495A-9D93-BD8329A9D8AC/anomODdf.csv) | stage 4
+
+For a detailed description of the data structure, refer to [chapter 4 of my thesis](https://cartographymaster.eu/wp-content/theses/2020_Klasen_Thesis.pdf#page=27).
 
 For the notebooks that feature maps (those with *_spatialOverview* in their name), you will need a **Mapbox access token**. Read how to create one [here](https://docs.mapbox.com/help/getting-started/access-tokens/). Then, in the respective notebooks, replace `MAPBOX_ACCESS_TOKEN` with your personal one.
 

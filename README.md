@@ -30,6 +30,6 @@ The notebooks represent a prototype for an interactive visual exploration tool. 
 
 ![grafik](https://user-images.githubusercontent.com/49414732/112134617-380f1080-8bcd-11eb-9412-ede0c45f685a.png)
 ___
-Author: Verena Klasen, M.Sc. Cartography
+Author: [Verena Klasen](https://verenaklasen.de/), M.Sc. Cartography
 
 Co-Autor: Fabian Patterson, Senior Data Scientist (Fraunhofer IAIS)
